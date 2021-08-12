@@ -1,0 +1,39 @@
+.topbarContainer {
+   padding: 0 30px;
+   /* background-color: whitesmoke; */
+}
+
+
+.topbarWrapper {
+   height: 50px;
+   display: flex;
+   align-items: center;
+}
+
+.topbarLeft {
+   flex: 1;
+}
+
+
+.linkText {
+   color: greenyellow;
+   cursor: pointer;
+}
+
+.linkTexts {
+   margin-left: 15px;
+}
+
+.topbarRight {
+   color: yellowgreen;
+}
+
+.rightText {
+   margin-left: 15px;
+}
+
+.topbarHr {
+   /* margin: 20px 0; */
+   color: tomato;
+   font-size: 50px;
+}
